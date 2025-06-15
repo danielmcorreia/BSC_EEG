@@ -1,0 +1,8 @@
+matplotlib==3.10.3
+mne==1.9.0
+mnelab==1.0.1
+numpy==2.3.0
+pandas==2.3.0
+scipy==1.15.3
+seaborn==0.13.2
+statsmodels==0.14.4
